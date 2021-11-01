@@ -1,12 +1,12 @@
 {
     "name": "Music-Bot",
     "description": "A Simple Bot To Download Music In High Quality.",
-    "logo": "https://telegra.ph/file/c3c4ebdc70fa7a5510968.jpg",
+    "logo": "https://telegra.ph/file/7a870df1457ccd0829875.jpg",
     "keywords": [
         "Avengers",
         "Music-Bot",
         "Telegram Bot",
-        "Kannan"
+        
     ],
     "env": {
         "BOT_TOKEN": {
